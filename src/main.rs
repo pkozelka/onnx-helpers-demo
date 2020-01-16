@@ -28,7 +28,7 @@ fn main() {
         None,
     );
 
-    let model = make_model(graph,
+    let model = make_model::<&str>(graph,
                            None,
                            None,
                            None,
