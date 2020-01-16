@@ -1,0 +1,11 @@
+[package]
+name = "onnx-helpers-demo"
+version = "0.1.0"
+authors = ["Petr Kozelka <pkozelka@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+onnx-helpers = "0.0.1"
+onnx-pb = "0.0.3"
